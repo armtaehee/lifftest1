@@ -151,6 +151,6 @@ main {
 	-webkit-text-fill-color: transparent;
 }
 
-.task .actions .delete {
+.task .actions .done {
 	color: crimson;
 }
